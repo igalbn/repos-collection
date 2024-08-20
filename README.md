@@ -2,7 +2,10 @@
 
 [Electron Forge](https://github.com/electron/forge)  
 
-[ElectronJS](https://github.com/electron/electron)
+[ElectronJS](https://github.com/electron/electron) 
 
-[Pandas](https://github.com/pandas-dev/pandas)
+[LMMS](https://github.com/LMMS/lmms)
+
+[Pandas](https://github.com/pandas-dev/pandas)  
+
 [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
