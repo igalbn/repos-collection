@@ -8,4 +8,10 @@
 
 [Pandas](https://github.com/pandas-dev/pandas)  
 
-[Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
+[Scikit-Learn](https://github.com/scikit-learn/scikit-learn)  
+
+[Pyodide](https://github.com/pyodide/pyodide)  
+
+[SpaCy](https://github.com/explosion/spaCy)  
+
+
