@@ -2,7 +2,9 @@
 
 [Electron Forge](https://github.com/electron/forge)  
 
-[ElectronJS](https://github.com/electron/electron) 
+[ElectronJS](https://github.com/electron/electron)  
+
+[Svelte](https://github.com/sveltejs/svelte)
 
 [LMMS](https://github.com/LMMS/lmms)
 
