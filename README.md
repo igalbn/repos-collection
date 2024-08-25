@@ -18,3 +18,4 @@
 
 [Natron](https://github.com/NatronGitHub/Natron)
 
+[Visual Studio Code](https://github.com/microsoft/vscode)
