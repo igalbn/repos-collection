@@ -21,3 +21,5 @@
 [Visual Studio Code](https://github.com/microsoft/vscode)  
 
 [Kdenlive](https://github.com/KDE/kdenlive)
+
+[GPT4All](https://github.com/nomic-ai/gpt4all)
