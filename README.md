@@ -22,4 +22,6 @@
 
 [Kdenlive](https://github.com/KDE/kdenlive)
 
-[GPT4All](https://github.com/nomic-ai/gpt4all)
+[GPT4All](https://github.com/nomic-ai/gpt4all)  
+
+[Selenium](https://github.com/SeleniumHQ/selenium)
