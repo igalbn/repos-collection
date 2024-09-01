@@ -25,3 +25,5 @@
 [GPT4All](https://github.com/nomic-ai/gpt4all)  
 
 [Selenium](https://github.com/SeleniumHQ/selenium)
+
+[VLC media player](https://github.com/videolan/vlc)
