@@ -28,6 +28,8 @@
 
 [Selenium](https://github.com/SeleniumHQ/selenium)
 
+[Puppeteer](https://github.com/puppeteer/puppeteer)
+
 [VLC media player](https://github.com/videolan/vlc)
 
 [Node.js](https://github.com/nodejs/node)
