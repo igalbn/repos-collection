@@ -8,7 +8,9 @@
 
 [LMMS](https://github.com/LMMS/lmms)
 
-[Pandas](https://github.com/pandas-dev/pandas)  
+[Pandas](https://github.com/pandas-dev/pandas)   
+
+[GeoPandas](https://github.com/geopandas/geopandas)
 
 [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)  
 
