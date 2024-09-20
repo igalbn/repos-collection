@@ -35,3 +35,13 @@
 [VLC media player](https://github.com/videolan/vlc)
 
 [Node.js](https://github.com/nodejs/node)
+
+
+
+## Video Players
+[MPV](https://github.com/mpv-player/mpv)
+
+[VLC media player](https://github.com/videolan/vlc)
+
+[Celluloid](https://github.com/celluloid-player/celluloid)
+
