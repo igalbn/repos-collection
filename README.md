@@ -45,6 +45,9 @@
 
 [Celluloid](https://github.com/celluloid-player/celluloid)
 
+## Video Editors
+[Kdenlive](https://github.com/KDE/kdenlive)
+
 ## Operation Systems
 [Linux Mint](https://github.com/linuxmint)  
 
