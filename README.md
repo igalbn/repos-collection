@@ -51,6 +51,8 @@
 ## Video Editors
 [Kdenlive](https://github.com/KDE/kdenlive)
 
+[OpenShot](https://github.com/OpenShot/openshot-qt)
+
 ## Operation Systems
 [Linux Mint](https://github.com/linuxmint)  
 
